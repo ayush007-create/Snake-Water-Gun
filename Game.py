@@ -1,5 +1,5 @@
 import random
-lst = ['s','W','g']
+lst = ['s','w','g']
 
 chance = 10
 no_of_chance = 0
